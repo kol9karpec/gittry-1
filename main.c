@@ -4,6 +4,10 @@ void a(void)
 {
 	printf("a\r\n");
 }
+void B(void)
+{
+	printf("B\r\n");
+}
 
 int main(void)
 {
